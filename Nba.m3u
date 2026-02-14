@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="LOCAL.ph" tvg-logo="https://example.com/sports_logo.png" group-title="Local",Portland Vs Utah
+#EXTINF:-1 tvg-id="LOCAL.ph" tvg-logo="https://example.com/sports_logo.png" group-title="NBA",NBA All-Star Celebrity Game
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
-https://cdn2.ncfiles.cfd/live/cdn2/chunks.m3u8
+https://cdn1.ncfiles.cfd/live/cdn1/chunks.m3u8
 #EXTINF:-1 tvg-id="LOCAL.ph" tvg-logo="https://api.ppv.to/assets/thumb/fdb799fee1978eadd5793ba9bf98505d-thumbnail.jpg" group-title="Local",Dallas Mavericks vs Los Angeles Lakers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/142.0.0.0 Safari/537.36
 https://s3.us-east-1.amazonaws.com/yash.myvibes/espn_720p30.m3u8
